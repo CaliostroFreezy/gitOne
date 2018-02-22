@@ -1,0 +1,26 @@
+{
+  "name": "gitone",
+  "version": "1.0.0",
+  "description": "Примеры и шаблоны",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/CaliostroFreezy/gitOne.git"
+  },
+  "author": "Stas Shadow",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/CaliostroFreezy/gitOne/issues"
+  },
+  "homepage": "https://github.com/CaliostroFreezy/gitOne#readme",
+  "dependencies": {
+    "gulp": "^3.9.1",
+    "gulp-sass": "^3.1.0"
+  },
+  "devDependencies": {
+    "gulp-clean-css": "^3.9.2"
+  }
+}
