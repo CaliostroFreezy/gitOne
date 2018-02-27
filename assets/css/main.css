@@ -1,5 +1,7 @@
-* {
-	margin: 0;
-	padding: 0;
-	box-sizing: border-box;
-}
+body {
+  font: 100% Helvetica, sans-serif;
+  color: #1ee;
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  background-color: #fff; }
