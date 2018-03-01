@@ -1,0 +1,24 @@
+{
+  "name": "gitone",
+  "description": "Примеры и шаблоны",
+  "main": "index.js",
+  "authors": [
+    "Stas Shadow"
+  ],
+  "license": "ISC",
+  "homepage": "https://github.com/CaliostroFreezy/gitOne",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "assets/libs/",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "magnific-popup": "^1.1.0",
+    "normalize.css": "^8.0.0",
+    "bootstrap": "^4.0.0",
+    "jquery": "^3.3.1"
+  }
+}

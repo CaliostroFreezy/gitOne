@@ -87,3 +87,5 @@ gulp.task('build', ['clean', 'img', 'sass', 'scripts'], function() {
 	var buildHtml = gulp.src('./index.html')
 	.pipe(gulp.dest('dist'));
 });
+
+gulp.task('default', ['watch'])
